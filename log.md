@@ -22,3 +22,23 @@
 **Thoughts:** Breezed through most exercises because they were reviews of what I already knew. Although switch statements were completely new for me. 
 
 **Link to work:** [Free Code Camp](https://www.freecodecamp.org/challenges/accessing-nested-objects)
+
+### Day 1: January 3rd, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* Accessing Nested Objects
+* Accessing Nested Arrays
+* Iterate with JavaScript For Loops
+* Iterate Odd Numbers With a For Loop
+* Count Backwards With a For Loop
+* Iterate Through an Array with a For Loop
+* Nesting For Loops
+* Iterate with JavaScript While Loops
+* Profile Lookup
+* Generate Random Fractions with JavaScript
+* Generate Random Whole Numbers with JavaScript
+
+**Thoughts:** More review except for nested if statements. There was a challenge that illustrated nested if statements and the fact that a function is exited as soon as return is reached.
+
+**Link to work:** [Free Code Camp - This is the challenge described above](https://www.freecodecamp.org/challenges/profile-lookup)
