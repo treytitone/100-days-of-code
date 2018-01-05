@@ -43,12 +43,12 @@
 
 **Link to work:** [Free Code Camp - This is the challenge described above](https://www.freecodecamp.org/challenges/profile-lookup)
 
-### Day 1: January 3rd, 2017
+### Day 2: January 4th, 2017
 
 **Today's Progress**: FreeCodeCamp
 
-* Going to stop putting every lesson i did here. Just the beginning and end/
-* Started at - Generate Random Whole Numbers within a Range Complete
+* Going to stop putting every lesson i did here. Just the beginning and end
+* Started at - Generate Random Whole Numbers within a Range 
 * Ended at the "Factoralize a Number" challenge
 
 
