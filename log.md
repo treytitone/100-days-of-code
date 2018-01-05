@@ -42,3 +42,17 @@
 **Thoughts:** More review except for nested if statements. There was a challenge that illustrated nested if statements and the fact that a function is exited as soon as return is reached.
 
 **Link to work:** [Free Code Camp - This is the challenge described above](https://www.freecodecamp.org/challenges/profile-lookup)
+
+### Day 1: January 3rd, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* Going to stop putting every lesson i did here. Just the beginning and end/
+* Started at - Generate Random Whole Numbers within a Range Complete
+* Ended at the "Factoralize a Number" challenge
+
+
+**Thoughts:** Extremely frustrated trying to figure out the factoralizd challenge. Spent at least 45 mins on it with no luck. I'm thinking I should review earlier FCC lessons that I skipped (I thought my prior knowledge covered) to see if they went over challenges similar to this. 
+
+**Link to work:** [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
+
