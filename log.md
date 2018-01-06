@@ -54,7 +54,7 @@
 
 **Thoughts:** Extremely frustrated trying to figure out the factoralizd challenge. Spent at least 45 mins on it with no luck. I'm thinking I should review earlier FCC lessons that I skipped (I thought my prior knowledge covered) to see if they went over challenges similar to this. 
 
-**Link to work:** [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
+**Link to work:** [Free Code Camp - Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 
 ### Day 3: January 4th, 2017
 
@@ -66,4 +66,4 @@
 
 **Thoughts:** I now understand the "For" loop solution of the factorialize challenge. But still need to dig deeper into the recursive function solution. I came up with a solution for the "Check for Palindromes" challenge after I finally found the correct regex for non-alphanumeric chararacters (\W). 
 
-**Link to work:** [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
+**Link to work:** [Free Code Camp - Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
