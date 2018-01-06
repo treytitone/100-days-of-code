@@ -56,3 +56,14 @@
 
 **Link to work:** [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 
+### Day 3: January 4th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* Started at - "Factoralize a Number" challenge
+* Ended at - Check for Palindromes
+
+
+**Thoughts:** I now understand the "For" loop solution of the factorialize challenge. But still need to dig deeper into the recursive function solution. I came up with a solution for the "Check for Palindromes" challenge after I finally found the correct regex for non-alphanumeric chararacters (\W). 
+
+**Link to work:** [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
