@@ -56,7 +56,7 @@
 
 **Link to work:** [Free Code Camp - Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 
-### Day 3: January 4th, 2017
+### Day 3: January 5th, 2017
 
 **Today's Progress**: FreeCodeCamp
 
