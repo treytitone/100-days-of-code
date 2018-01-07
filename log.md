@@ -67,3 +67,14 @@
 **Thoughts:** I now understand the "For" loop solution of the factorialize challenge. But still need to dig deeper into the recursive function solution. I came up with a solution for the "Check for Palindromes" challenge after I finally found the correct regex for non-alphanumeric chararacters (\W). 
 
 **Link to work:** [Free Code Camp - Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+### Day 4: January 6th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* "Title Case a Sentence"
+
+
+**Thoughts:** Toughest challenge yet. Took more than 3 hrs to figure out something that works and my solution is still very convoluted. 
+
+**Link to work:** [Free Code Camp - Title Case a Sentence](https://www.freecodecamp.org/challenges/title-case-a-sentence)
