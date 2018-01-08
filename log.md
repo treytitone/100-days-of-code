@@ -78,3 +78,15 @@
 **Thoughts:** Toughest challenge yet. Took more than 3 hrs to figure out something that works and my solution is still very convoluted. 
 
 **Link to work:** [Free Code Camp - Title Case a Sentence](https://www.freecodecamp.org/challenges/title-case-a-sentence)
+
+### Day 5: January 7th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* "Return Largest Numbers in Arrays"
+
+
+**Thoughts:** I had the base of the solution done really quickly but had silly mistakes with checking the length of the argument and nested for loops which dragged it out an hour. 
+
+**Link to work:** [Free Code Camp - Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
+
