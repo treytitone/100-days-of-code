@@ -90,3 +90,15 @@
 
 **Link to work:** [Free Code Camp - Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
 
+### Day 6: January 7th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* "Confirm the Ending"
+* "Repeat a string repeat a string"
+* "Truncate a string"
+
+
+**Thoughts:** Zipped through three challenges. Feeling good!
+
+**Link to work:** [Free Code Camp - Truncate a string](https://www.freecodecamp.org/challenges/truncate-a-string)
