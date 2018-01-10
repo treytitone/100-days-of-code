@@ -90,7 +90,7 @@
 
 **Link to work:** [Free Code Camp - Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
 
-### Day 6: January 7th, 2017
+### Day 6: January 8th, 2017
 
 **Today's Progress**: FreeCodeCamp
 
@@ -102,3 +102,16 @@
 **Thoughts:** Zipped through three challenges. Feeling good!
 
 **Link to work:** [Free Code Camp - Truncate a string](https://www.freecodecamp.org/challenges/truncate-a-string)
+
+### Day 7: January 9th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* "Chunky Monkey"
+* "Slasher Flick"
+* "Mutations"
+
+
+**Thoughts:** Zipped through the first two. Stuck on "Mutations" for now.
+
+**Link to work:** [Free Code Camp - Mutations](https://www.freecodecamp.org/challenges/mutations)
