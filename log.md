@@ -115,3 +115,13 @@
 **Thoughts:** Zipped through the first two. Stuck on "Mutations" for now.
 
 **Link to work:** [Free Code Camp - Mutations](https://www.freecodecamp.org/challenges/mutations)
+
+### Day 8: January 10th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* "Mutations"
+
+**Thoughts:** Took an hour at the computer and an additional hour on paper to work it out. My solution worked but was outrageously complex compared to the basic solution in the hint. Need to focus on creating the minimum amount of variables and loops. 
+
+**Link to work:** [Free Code Camp - Mutations](https://www.freecodecamp.org/challenges/mutations)
