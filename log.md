@@ -125,3 +125,29 @@
 **Thoughts:** Took an hour at the computer and an additional hour on paper to work it out. My solution worked but was outrageously complex compared to the basic solution in the hint. Need to focus on creating the minimum amount of variables and loops. 
 
 **Link to work:** [Free Code Camp - Mutations](https://www.freecodecamp.org/challenges/mutations)
+
+### Day 9: January 11th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* Falsy Bouncer
+* Seek and Destroy
+* Where do I belong
+* Caesars Cipher
+* jQuery
+
+**Thoughts:** Wrapped up basic Javascript algorithms and started jQuery.
+
+**Link to work:** [Free Code Camp - jQuery](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work)
+
+
+### Day 10: January 12th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* jQuery
+* HTML5 & CSS
+
+**Thoughts:** Finished jQuery and moving on to HTML5 & CSS. I feel pretty proficient in HTML and CSS but this will be a nice review.
+
+**Link to work:** [Free Code Camp - Add a Negative Margin to an Element](https://www.freecodecamp.org/challenges/add-a-negative-margin-to-an-element)
