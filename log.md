@@ -151,3 +151,17 @@
 **Thoughts:** Finished jQuery and moving on to HTML5 & CSS. I feel pretty proficient in HTML and CSS but this will be a nice review.
 
 **Link to work:** [Free Code Camp - Add a Negative Margin to an Element](https://www.freecodecamp.org/challenges/add-a-negative-margin-to-an-element)
+
+### Day MLK: January 12th-15th, 2017
+
+**Today's Progress**: MLK Weekend Snowboarding. No Coding.
+
+### Day 11: January 16th, 2017
+
+**Today's Progress**: FreeCodeCamp
+
+* Bootstrap 
+
+**Thoughts:** How to use Bootstrap to speed up website creation while making it responsive.
+
+**Link to work:** [Free Code Camp - Bootstrap](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
