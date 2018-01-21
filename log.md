@@ -201,3 +201,13 @@
 **Thoughts:** Still working on the same project.
 
 **Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
+
+### Day 15: January 21st, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Personal Portfolio Webpage
+
+**Thoughts:** Still working on the same project. CSS is very frustrating.
+
+**Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
