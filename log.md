@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 2nd, 2017
+### Day 0: January 2nd, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -23,7 +23,7 @@
 
 **Link to work:** [Free Code Camp](https://www.freecodecamp.org/challenges/accessing-nested-objects)
 
-### Day 1: January 3rd, 2017
+### Day 1: January 3rd, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -43,7 +43,7 @@
 
 **Link to work:** [Free Code Camp - This is the challenge described above](https://www.freecodecamp.org/challenges/profile-lookup)
 
-### Day 2: January 4th, 2017
+### Day 2: January 4th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -56,7 +56,7 @@
 
 **Link to work:** [Free Code Camp - Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 
-### Day 3: January 5th, 2017
+### Day 3: January 5th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -68,7 +68,7 @@
 
 **Link to work:** [Free Code Camp - Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
-### Day 4: January 6th, 2017
+### Day 4: January 6th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -79,7 +79,7 @@
 
 **Link to work:** [Free Code Camp - Title Case a Sentence](https://www.freecodecamp.org/challenges/title-case-a-sentence)
 
-### Day 5: January 7th, 2017
+### Day 5: January 7th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -90,7 +90,7 @@
 
 **Link to work:** [Free Code Camp - Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
 
-### Day 6: January 8th, 2017
+### Day 6: January 8th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -103,7 +103,7 @@
 
 **Link to work:** [Free Code Camp - Truncate a string](https://www.freecodecamp.org/challenges/truncate-a-string)
 
-### Day 7: January 9th, 2017
+### Day 7: January 9th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -116,7 +116,7 @@
 
 **Link to work:** [Free Code Camp - Mutations](https://www.freecodecamp.org/challenges/mutations)
 
-### Day 8: January 10th, 2017
+### Day 8: January 10th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -126,7 +126,7 @@
 
 **Link to work:** [Free Code Camp - Mutations](https://www.freecodecamp.org/challenges/mutations)
 
-### Day 9: January 11th, 2017
+### Day 9: January 11th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -141,7 +141,7 @@
 **Link to work:** [Free Code Camp - jQuery](https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work)
 
 
-### Day 10: January 12th, 2017
+### Day 10: January 12th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -152,11 +152,11 @@
 
 **Link to work:** [Free Code Camp - Add a Negative Margin to an Element](https://www.freecodecamp.org/challenges/add-a-negative-margin-to-an-element)
 
-### Day MLK: January 12th-15th, 2017
+### Day MLK: January 12th-15th, 2018
 
 **Today's Progress**: MLK Weekend Snowboarding. No Coding.
 
-### Day 11: January 16th, 2017
+### Day 11: January 16th, 2018
 
 **Today's Progress**: FreeCodeCamp
 
@@ -165,3 +165,39 @@
 **Thoughts:** How to use Bootstrap to speed up website creation while making it responsive.
 
 **Link to work:** [Free Code Camp - Bootstrap](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
+
+### Day 12: January 17th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Tribute Page
+
+**Thoughts:** FCC project to start putting newfound bootstrap skills to the test.
+
+**Link to work:** [Code Pen - Build a Tribute Page](https://codepen.io/treytitone/pen/KZepbd)
+
+
+### Day 13: January 18th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Personal Portfolio Webpage
+
+**Thoughts:** Another FCC project to start putting newfound bootstrap skills to the test.
+
+**Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
+
+
+### Day Nada: January 19th, 2018
+
+**Today's Progress**: No Coding
+
+### Day 14: January 20th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Personal Portfolio Webpage
+
+**Thoughts:** Still working on the same project.
+
+**Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
