@@ -211,3 +211,14 @@
 **Thoughts:** Still working on the same project. CSS is very frustrating.
 
 **Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
+
+### Day 16: January 22nd, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Personal Portfolio Webpage
+* Javascript basics review
+
+**Thoughts:** Finally finished portfolio project. Now back to reviewing some basic Javascript concepts on FCC.
+
+**Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
