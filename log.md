@@ -222,3 +222,14 @@
 **Thoughts:** Finally finished portfolio project. Now back to reviewing some basic Javascript concepts on FCC.
 
 **Link to work:** [Code Pen - Build a Personal Portfolio Page](https://codepen.io/treytitone/full/JMeBEG/)
+
+### Day 17: January 23rd, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* JSON APIs and Ajax
+* Build a Random Quote Machine
+
+**Thoughts:** Started work on a project that uses a JSON API to pull random quotes from a server.
+
+**Link to work:** [Code Pen - Build a Random Quote Machine](https://codepen.io/treytitone/pen/goJYJy)
