@@ -233,3 +233,14 @@
 **Thoughts:** Started work on a project that uses a JSON API to pull random quotes from a server.
 
 **Link to work:** [Code Pen - Build a Random Quote Machine](https://codepen.io/treytitone/pen/goJYJy)
+
+### Day 18: January 24th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Random Quote Machine
+* Show the local weather
+
+**Thoughts:** Finsihed up random quote machine app and figured out how to allow the user to click a button to tweet the quote. Struggled getting geolocation to work in CodePen. Seems like the auto-run behavior was the issue.
+
+**Link to work:** [Code Pen - Build a Random Quote Machine](https://codepen.io/treytitone/pen/goJYJy)
