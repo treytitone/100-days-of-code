@@ -244,3 +244,23 @@
 **Thoughts:** Finsihed up random quote machine app and figured out how to allow the user to click a button to tweet the quote. Struggled getting geolocation to work in CodePen. Seems like the auto-run behavior was the issue.
 
 **Link to work:** [Code Pen - Build a Random Quote Machine](https://codepen.io/treytitone/pen/goJYJy)
+
+### Day 19: January 25th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Show the local weather
+
+**Thoughts:** Figured out how to use geolocation in the browser and pass coordinates in a request to a weather API.
+
+**Link to work:** [Code Pen - Show the local weather](https://codepen.io/treytitone/full/oprgZv/)
+
+### Day 20: January 26th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Show the local weather
+
+**Thoughts:** Got stuck on figuring out how to create a toggle to change from Celsius to Fahrenheit. I think it is a scope issue or has to do with my clickable button loading after the API request returns data since I have the button set to appear when the data returns. 
+
+**Link to work:** [Code Pen - Show the local weather](https://codepen.io/treytitone/full/oprgZv/)
