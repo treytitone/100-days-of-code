@@ -264,3 +264,23 @@
 **Thoughts:** Got stuck on figuring out how to create a toggle to change from Celsius to Fahrenheit. I think it is a scope issue or has to do with my clickable button loading after the API request returns data since I have the button set to appear when the data returns. 
 
 **Link to work:** [Code Pen - Show the local weather](https://codepen.io/treytitone/full/oprgZv/)
+
+### Day 21: January 27th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Show the local weather
+
+**Thoughts:** Worknig on temperature unit converison.
+
+**Link to work:** [Code Pen - Show the local weather](https://codepen.io/treytitone/full/oprgZv/)
+
+### Day 22: January 28th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Show the local weather
+
+**Thoughts:** Finsihed the local weather app.
+
+**Link to work:** [Code Pen - Show the local weather](https://codepen.io/treytitone/full/oprgZv/)
