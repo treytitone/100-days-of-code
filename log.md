@@ -284,3 +284,13 @@
 **Thoughts:** Finsihed the local weather app.
 
 **Link to work:** [Code Pen - Show the local weather](https://codepen.io/treytitone/full/oprgZv/)
+
+### Day 23: January 29th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Wikipedia Viewer
+
+**Thoughts:** Started on the Wikipedia viewer. Had to work through origin control issue with the API? Now seeing weird behavior on CodePen when I submit my search where the whole page refreshes. Posted a question on FCC forum so hopefully someone can explain why it is happening.
+
+**Link to work:** [Code Pen - Build a Wikipedia Viewer](https://codepen.io/treytitone/full/wyvJVW/)
