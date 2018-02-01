@@ -294,3 +294,23 @@
 **Thoughts:** Started on the Wikipedia viewer. Had to work through origin control issue with the API? Now seeing weird behavior on CodePen when I submit my search where the whole page refreshes. Posted a question on FCC forum so hopefully someone can explain why it is happening.
 
 **Link to work:** [Code Pen - Build a Wikipedia Viewer](https://codepen.io/treytitone/full/wyvJVW/)
+
+### Day 24: January 30th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Build a Wikipedia Viewer
+
+**Thoughts:** Turns out wrapping my input in form tags was the issue. The default behavior of form refreshes the page. I didn't even need this tag because I was using jQuery rather than submitting form data to a server. Anyway, I finished the project and I think it's my best yet!
+
+**Link to work:** [Code Pen - Build a Wikipedia Viewer](https://codepen.io/treytitone/full/wyvJVW/)
+
+### Day 25: January 31st, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Use the Twitchtv JSON API
+
+**Thoughts:** Started working on the Twitch project. I spent a ton of time on the CSS because I originally was going to make each row an li in a ul but decided to just use bootstrap rows instea.
+
+**Link to work:** [Code Pen - Use the Twitchtv JSON API](https://codepen.io/treytitone/full/BYNbxw/)
