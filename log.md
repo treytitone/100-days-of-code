@@ -311,6 +311,16 @@
 
 * Use the Twitchtv JSON API
 
-**Thoughts:** Started working on the Twitch project. I spent a ton of time on the CSS because I originally was going to make each row an li in a ul but decided to just use bootstrap rows instea.
+**Thoughts:** Started working on the Twitch project. I spent a ton of time on the CSS because I originally was going to make each row an li in a ul but decided to just use bootstrap rows instead.
+
+**Link to work:** [Code Pen - Use the Twitchtv JSON API](https://codepen.io/treytitone/full/BYNbxw/)
+
+### Day 26: February 1st, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Use the Twitchtv JSON API
+
+**Thoughts:** Finished up the Twitch project after some help from the FCC forum. I was educated on the use of the "let" keyword and why it's better to use in a for loop when using the getJSON method. Started on the advanced algorithm challenges. 
 
 **Link to work:** [Code Pen - Use the Twitchtv JSON API](https://codepen.io/treytitone/full/BYNbxw/)
