@@ -324,3 +324,33 @@
 **Thoughts:** Finished up the Twitch project after some help from the FCC forum. I was educated on the use of the "let" keyword and why it's better to use in a for loop when using the getJSON method. Started on the advanced algorithm challenges. 
 
 **Link to work:** [Code Pen - Use the Twitchtv JSON API](https://codepen.io/treytitone/full/BYNbxw/)
+
+### Day 27: February 2nd, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Diff Two Arrays
+* CSS Grid Tutorial
+
+**Thoughts:** Started interactive CSS grid tutorial. Also started on the intermediate algorithm challenges on FCC. 
+
+**Link to work:** [Learn CSS Grid](https://scrimba.com/g/gR8PTE)
+
+### Day Nada: February 3rd, 2018
+
+**Today's Progress**: No Coding - Snowboarding
+
+### Day Nada: February 4th, 2018
+
+**Today's Progress**: No Coding - Super Bowl Sunday
+
+### Day 28: February 5th, 2018
+
+**Today's Progress**: FreeCodeCamp
+
+* Diff Two Arrays
+* Roman Numeral Converter
+
+**Thoughts:** Finshed Diff Two Arrays but created very similar blocks of code that could be reduced with a function. Started on Roman Numberal Converter but not sure where to start with the solution.
+
+**Link to work:** [Free Code Camp - Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
